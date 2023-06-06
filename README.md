@@ -8,5 +8,5 @@ Settings -> Advanced -> Export Telegram data [select contacts only]
 #### How to use:
 `python telegram_convert.py path_to_json_file vcf_file`\
 
-#### Examples:\
+#### Examples:
 `python telegram_convert.py ./results.json ./contacts.vcf`\
