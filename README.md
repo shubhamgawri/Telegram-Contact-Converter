@@ -2,7 +2,7 @@
 Convert Telegram contacts from JSON to VCF
 
 If you have recently lost your contacts,  
-You can export your Telegram contacts via Telegram desktop app like this:  
+You can download your Telegram contacts via Telegram desktop app like this:  
 Settings -> Advanced -> Export Telegram data [select contacts only]
 
 #### How to use:
